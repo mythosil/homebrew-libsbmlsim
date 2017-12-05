@@ -2,9 +2,9 @@ require 'formula'
 
 class Libsbmlsim < Formula
   homepage 'http://fun.bio.keio.ac.jp/software/libsbmlsim/'
-  url 'http://fun.bio.keio.ac.jp/software/libsbmlsim/downloads/libsbmlsim-1.1.0.tar.gz'
-  version '1.1.0'
-  sha1 '1608c36d06b0b2d4ae7eb64ff3d9cd380a3c4edb'
+  url 'https://github.com/libsbmlsim/libsbmlsim/archive/v1.4.0.tar.gz'
+  version '1.4.0'
+  sha1 'a424cd45572551eb086da1292de38325631066c9'
 
   LANGUAGES_OPTIONAL = { 
     'csharp' => 'C#',
