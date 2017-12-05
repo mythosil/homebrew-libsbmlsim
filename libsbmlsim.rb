@@ -4,7 +4,7 @@ class Libsbmlsim < Formula
   homepage 'http://fun.bio.keio.ac.jp/software/libsbmlsim/'
   url 'https://github.com/libsbmlsim/libsbmlsim/archive/v1.4.0.tar.gz'
   version '1.4.0'
-  sha1 'a424cd45572551eb086da1292de38325631066c9'
+  sha1 '3f4f7f28ce2baca4310670890aeb1f82631c7575'
 
   LANGUAGES_OPTIONAL = { 
     'csharp' => 'C#',
